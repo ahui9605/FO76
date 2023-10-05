@@ -1,0 +1,151 @@
+{
+    "current_version": {
+        "version": "0.2",
+        "last_refreshed": "10/04/2023",
+        "id": 26859340,
+        "title": "阿帕拉契亚周报 23/10/4丨万圣节恶作剧系列丨大西洋城开发者访谈丨五周年故事征集",
+        "nuke_password_last_updated": 1002202310092023
+    },
+    "buttons_config": [
+        {
+            "text": "血清表",
+            "image": "imgs\\血清表.png",
+            "type": "image",
+            "title": "血清表"
+        },
+        {
+            "text": "动力甲抗性值",
+            "image": "imgs\\动力甲抗性值.png",
+            "type": "image",
+            "title": "动力甲抗性值"
+        },
+        {
+            "text": "负重叠加",
+            "image": "imgs\\负重叠加.png",
+            "type": "image",
+            "title": "负重叠加"
+        },
+        {
+            "text": "弹药表",
+            "image": "imgs\\弹药表.jpg",
+            "type": "image",
+            "title": "弹药表"
+        },
+        {
+            "text": "护甲抗性值",
+            "image": "imgs\\护甲抗性值.png",
+            "type": "image",
+            "title": "护甲抗性值"
+        },
+        {
+            "text": "经验叠加",
+            "image": "imgs\\经验叠加.png",
+            "type": "image",
+            "title": "经验叠加"
+        },
+        {
+            "text": "杂志表",
+            "image": "imgs\\杂志表.jpg",
+            "type": "image",
+            "title": "杂志表"
+        },
+        {
+            "text": "内衬抗性值",
+            "image": "imgs\\内衬抗性值.jpg",
+            "type": "image",
+            "title": "内衬抗性值"
+        },
+        {
+            "text": "如何刷酸",
+            "filepath": "txt\\如何刷酸.txt",
+            "type": "txt",
+            "title": "如何刷酸"
+        },
+        {
+            "text": "酒类表",
+            "image": "imgs\\酒类表.png",
+            "type": "image",
+            "title": "酒类表"
+        },
+        {
+            "text": "词条价值参考",
+            "image": "imgs\\词条价值参考.png",
+            "type": "image",
+            "title": "词条价值参考"
+        },
+        {
+            "text": "如何刷油",
+            "filepath": "txt\\如何刷油.txt",
+            "type": "txt",
+            "title": "如何刷油"
+        },
+        {
+            "text": "团队加成buff表",
+            "image": "imgs\\饭盒表.png",
+            "type": "image",
+            "title": "团队加成buff表"
+        },
+        {
+            "text": "动力甲传奇词条",
+            "image": "imgs\\动力甲传奇词条.png",
+            "type": "image",
+            "title": "动力甲传奇词条"
+        },
+        {
+            "text": "抓宠物",
+            "url": "https://tieba.baidu.com/p/6848104510",
+            "type": "webpage"
+        },
+        {
+            "text": "疾病表",
+            "image": "imgs\\疾病表.jpg",
+            "type": "image",
+            "title": "疾病表"
+        },
+        {
+            "text": "领取动力甲",
+            "filepath": "txt\\领取动力甲.txt",
+            "type": "txt",
+            "title": "领取动力甲"
+        },
+        {
+            "text": "金条商人",
+            "image": "imgs\\米诺瓦金条游商.png",
+            "type": "image",
+            "title": "金条商人"
+        },
+        {
+            "text": "成瘾表",
+            "image": "imgs\\成瘾表.jpg",
+            "type": "image",
+            "title": "成瘾表"
+        },
+        {
+            "text": "新手常见问题",
+            "url": "https://docs.qq.com/doc/DUkFsU1ZWV25ueUxI?groupUin=zpBGjwmrZY7T266Ia05ffA%253D%253D&ADUIN=861492738&ADSESSION=1695723785&ADTAG=CLIENT.QQ.7824_.0&ADPUBNO=27190&jumpuin=861492738",
+            "type": "webpage"
+        },
+        {
+            "text": "社区日程",
+            "image": "imgs\\赛季活动及挑战.png",
+            "type": "image",
+            "title": "社区日程"
+        },
+        {
+            "text": "76加点网址",
+            "url": "http://76.suyuening.com/",
+            "type": "webpage"
+        },
+        {
+            "text": "卡三星词条宏",
+            "action": "scrip_glitch.open_toplevel(root)",
+            "type": "custom"
+        },
+        {
+            "text": "核弹密码",
+            "filepath": "txt\\核弹密码.txt",
+            "type": "txt",
+            "title": "核弹密码"
+        }
+    ]
+}
